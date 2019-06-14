@@ -1,8 +1,8 @@
 # HTML Wireframe
 
-> In this assignment, you will build a web design skeleton using HTML/CSS.
+In this assignment, you will build a web design skeleton using HTML/CSS.
 
-----
+![Wireframe](images/final.png)
 
 ## Meta
 
