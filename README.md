@@ -12,7 +12,7 @@ In this assignment, you will build a web design skeleton using HTML/CSS.
 
 ## Deployed Version
 
-- [Wire Frame](https://aaronlng.github.io/psychic-game/)
+- [Wire Frame](https://www.aaronlng.dev/HW-Wireframe/)
 
 ## Author
 
